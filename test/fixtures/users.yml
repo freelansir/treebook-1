@@ -2,4 +2,10 @@ david:
   first_name: "David"
   last_name: "Kong"
   email: "dave.a.kong@gmail.com"
-  profile_name: "Freelansir"
+  profile_name: "freelansir"
+
+cassie:
+  first_name: "Cassie"
+  last_name: "Tran"
+  email: "cass.tran18@gmail.com"
+  profile_name: "casstran"
