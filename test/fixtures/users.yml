@@ -9,3 +9,9 @@ cassie:
   last_name: "Tran"
   email: "cass.tran18@gmail.com"
   profile_name: "casstran"
+
+andrew:
+  first_name: "Andrew"
+  last_name: "Kong"
+  email: "hardcore_congo@gmail.com"
+  profile_name: "andrewkong"  
